@@ -51,7 +51,7 @@ git clone https://github.com/georgecker/simple-conv.git
 cd simple-conv
 ```
 
-2. Now simple use cargo to build and run. The formate of the output file will be determined by the provided file extensions.
+2. Now simply use cargo to build and run. The formate of the output file will be determined by the provided file extensions.
 ```sh
 cargo run -- input_file.jpeg output_file.png
 ```
